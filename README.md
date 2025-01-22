@@ -1,1 +1,2 @@
 # Notion-Templates-Marketplace
+This is my super simple website to display my free notion templates! index.html contains the basic code, and then index.css styles it. The main feature of the website is the boxes--they will automatically adjust to fit the screen size. 
